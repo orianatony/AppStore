@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Café el Cocker App</string>
+    <string name="add">Agregar</string>
+    <string name="cantidad">cantidad</string>
+    <string name="coffe_image_descr">Menú de Café</string>
+    <string name="delete">Eliminar</string>
+    <string name="itemDelete">Item eliminado!</string>
+    <string name="mas">sumar</string>
+    <string name="menos">restar</string>
+    <string name="orderSuccess">Gracias su Orden Pagada!</string>
+    <string name="pay">Pagar</string>
+    <string name="product_image">Imagen Producto</string>
+    <string name="drinkmenu">¿Un rico café?</string>
+    <string name="eatmenu">¿Un desayuno exiquisito?</string>
+    <string name="paymenu">¿Listo para ordenar?</string>
+</resources>

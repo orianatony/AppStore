@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Café el Cocker App</string>
+    <string name="pizza_image_descr" translatable="false">Café el Cocker</string>
+    <string name="coffe_image_descr">Coffe Menu</string>
+    <string name="product_image">Product Image</string>
+    <string name="menos">substract</string>
+    <string name="mas">add</string>
+    <string name="cantidad">quantity</string>
+    <string name="total" translatable="false">Total</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="x" translatable="false">X</string>
+    <string name="icon" translatable="false">icon</string>
+    <string name="pay">Pay</string>
+    <string name="orderSuccess">Gracias Su Orden Pagada!</string>
+    <string name="itemDelete">Item deleted!</string>
+    <string name="drinkmenu">Un rico Café?</string>
+    <string name="eatmenu">Un desayuno exiquisito?</string>
+    <string name="paymenu">Listo para Ordenar?</string>
+
+</resources>

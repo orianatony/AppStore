@@ -1,0 +1,2 @@
+final def var = include(':app')
+var
